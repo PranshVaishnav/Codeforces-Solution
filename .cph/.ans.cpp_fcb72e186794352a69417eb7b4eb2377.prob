@@ -1,0 +1,1 @@
+{"name":"Local: ans","url":"d:\\DSA\\codeforces\\ans.cpp","tests":[{"id":1651329626708,"input":"5\naba\nabc\ncba\nn\ncodeforces","output":"Alice 2\nAlice 4\nAlice 4\nBob 14\nAlice 93"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DSA\\codeforces\\ans.cpp","group":"local","local":true}
